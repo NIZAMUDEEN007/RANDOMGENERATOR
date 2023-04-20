@@ -1,0 +1,13 @@
+.header-down {
+  height: 230px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-down-text {
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+}
